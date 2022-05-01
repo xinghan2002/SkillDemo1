@@ -1,5 +1,7 @@
 public class SkillDemo1{
 
-// Write something here
+    public static int multiply (int n, int m){
+        return n*m;
+    }
 
 }
